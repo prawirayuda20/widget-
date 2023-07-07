@@ -1,5 +1,6 @@
 # widget-
-
+NAMA : PRAWIRA YUDA
+NPM : 213510435
 ## Project setup
 ```
 npm install
